@@ -1,0 +1,25 @@
+[build-system]
+requires = [
+    'setuptools>=40.8.0',
+    'pandas>=2.0',
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = 'tog'
+version = '1.0.0'
+description = 'Basic terms of genetics.'
+readme = 'README.md'
+license = {file = 'LICENSE'}
+requires-python = '>=3.10'
+classifiers = [
+    'Intended Audience :: Developers',
+    'Intended Audience :: Science/Research',
+    'Topic :: Scientific/Engineering :: Bioinformatics',
+    'Programming Language :: Python :: 3.13',
+    'Operating System :: OS Independent',
+    'License :: OSI Approved :: MIT License',
+]
+
+[project.urls]
+repository = 'http://www.github.com/gisk-rev/tog.git'

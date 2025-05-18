@@ -1,0 +1,11 @@
+id;full_name;effect
+cdel;chromosomal deletion;large scale mutation
+cdup;chromosomal duplication;large scale mutation
+cins;chromosomal insertion;large scale mutation
+cinv;chromosomal inversion;large scale mutation
+ctra;chromosomal translocation;large scale mutation
+ndel;nucleotides deletion;small scale mutation
+nins;nucleotides insertion;small scale mutation
+smis;substitution missense;point mutation
+snon;substitution nonsense;point mutation
+ssil;substitution silent;point mutation

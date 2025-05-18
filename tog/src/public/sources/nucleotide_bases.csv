@@ -1,0 +1,6 @@
+id;full_name;chemical_name;formula;molar_mass;smiles
+A;adenine;9H-purin-6-amine;C5H5N5;135.13 g/mol;C1=NC2=C(N1)C(=NC=N2)N
+T;thymine;5-methylpyrimidine-2,4(1H,3H)-dione;C5H6N2O2;126.11 g/mol;CC1=CNC(=O)NC1=O
+C;cytosine;4-aminopyrimidin-2(1H)-one;C4H5N3O;111.10 g/mol;C1=C(NC(=O)N=C1)N
+G;guanine;2-amino-1H-purin-6(9H)-one;C5H5N5O;151.13 g/mol;C1=NC2=C(N1)C(=O)N=C(N2)N
+U;uracil;pyrimidine-2,4(1H,3H)-dione;C4H4N2O2;112.08 g/mol;C1=CNC(=O)NC1=O

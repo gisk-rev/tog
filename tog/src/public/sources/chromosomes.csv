@@ -1,0 +1,25 @@
+id;group;size;centromere_position;genes_number;bases_number;is_sex_chromosome
+1;A;large;metacentric;2968;245203898;0
+2;A;large;submetacentric;2288;243315028;0
+3;A;large;metacentric;2032;199411731;0
+4;B;large;submetacentric;1297;191610523;0
+5;B;large;submetacentric;1643;180967295;0
+6;C;medium;submetacentric;1963;170740541;0
+7;C;medium;submetacentric;1443;158431299;0
+8;C;medium;submetacentric;1127;145908738;0
+9;C;medium;submetacentric;1299;134505819;0
+10;C;medium;submetacentric;1440;135480874;0
+11;C;medium;submetacentric;2093;134978784;0
+12;C;medium;submetacentric;1652;133464434;0
+13;D;medium;acrocentric;748;114151656;0
+14;D;medium;acrocentric;1098;105311216;0
+15;D;medium;acrocentric;1122;100114055;0
+16;E;small;metacentric;1098;89995999;0
+17;E;small;submetacentric;1576;81691216;0
+18;E;small;submetacentric;766;77753510;0
+19;F;very small;metacentric;1454;63790860;0
+20;F;very small;metacentric;927;63644868;0
+21;G;very small;acrocentric;303;46976537;0
+22;G;very small;acrocentric;288;49476972;0
+X;C;medium;submetacentric;1184;152634166;1
+Y;G;very small;acrocentric;231;50961097;1

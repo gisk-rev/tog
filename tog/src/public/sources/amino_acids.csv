@@ -1,0 +1,23 @@
+id;full_name;chemical_name;formula;molar_mass;isoelectric_point;smiles;codons
+A;alanine;2-aminopropanoic acid;C3H7NO2;89.09 g/mol;6.11;CC(C(=O)O)N;GCA-GCC-GCG-GCU
+C;cysteine;2-amino-3-sulfhydrylpropanoic acid;C3H7NO2S;121.15 g/mol;5.05;C(C(C(=O)O)N)S;TGC-TGT-UGC-UGU
+D;aspartic acid;2-aminobutanedioic acid;C4H7NO4;133.10 g/mol;2.85;C(C(C(=O)O)N)C(=O)O;GAC-GAU
+E;glutamic acid;2-aminopentanedioic acid;C5H9NO4;147.13 g/mol;3.15;C(CC(=O)O)C(C(=O)O)N;GAA-GAG
+F;phenylalanine;(S)-2-amino-3-phenylpropanoic acid;C9H11NO2;165.19 g/mol;5.49;C1=CC=C(C=C1)CC(C(=O)O)N;TTC-TTT-UUC-UUU
+G;glycine;aminoacetic acid;C2H5NO2;75.06 g/mol;6.06;C(C(=O)O)N;GGA-GGC-GGG-GGU
+H;histidine;2-amino-3-(1H-imidazol-4-yl)propanoic acid;C6H9N3O2;155.15 g/mol;7.60;C1=C(NC=N1)CC(C(=O)O)N;CAC-CAU
+I;isoleucine;(2S,3S)-2-amino-3-methylpentanoic acid;C6H13NO2;131.17 g/mol;6.05;CCC(C)C(C(=O)O)N;AUA-AUC-AUU
+K;lysine;(2S)-2,6-diaminohexanoic acid;C6H14N2O2;146.19 g/mol;9.60;C(CCN)CC(C(=O)O)N;AAA-AAG
+L;leucine;2-amino-4-methylpentanoic acid;C6H13NO2;131.17 g/mol;6.01;CC(C)CC(C(=O)O)N;CUA-CUC-CUG-CUU-TTA-TTG-UUA-UUG
+M;methionine;2-amino-4-(methylsulfanyl)butanoic acid;C5H11NO2S;149.21 g/mol;5.74;CSCCC(C(=O)O)N;AUG
+N;asparagine;2-amino-3-carbamoylpropanoic acid;C4H8N2O3;132.12 g/mol;5.41;C(C(C(=O)O)N)C(=O)N;AAC-AAU
+O;pyrrolysine;(2S)-2-amino-6-[[(2R,3R)-3-methyl-3,4-dihydro-2H-pyrrole-2-carbonyl]amino]hexanoic acid;C12H21N3O3;255.31 g/mol;;CC1CC=NC1C(=O)NCCCCC(C(=O)O)N;UAG
+P;proline;pyrrolidine-2-carboxylic acid;C5H9NO2;115.13 g/mol;6.30;C1CC(NC1)C(=O)O;CCA-CCC-CCG-CCU
+Q;glutamine;2-amino-4-carbamoylbutanoic acid;C5H10N2O3;146.15 g/mol;5.65;C(CC(=O)N)C(C(=O)O)N;CAA-CAG
+R;arginine;2-amino-5-guanidinopentanoic acid;C6H14N4O2;174.20 g/mol;10.76;C(CC(C(=O)O)N)CN=C(N)N;AGA-AGG-CGA-CGC-CGG-CGU
+S;serine;2-amino-3-hydroxypropanoic acid;C3H7NO3;105.09 g/mol;5.68;C(C(C(=O)O)N)O;AGC-AGU-TCA-TCC-TCG-TCU-UCA-UCC-UCG-UCU
+T;threonine;2-amino-3-hydroxybutanoic acid;C4H9NO3;119.12 g/mol;5.60;C[C@H]([C@@H](C(=O)O)N)O;ACA-ACC-ACG-ACU
+U;selenocysteine;2-amino-3-selanylpropanoic acid;C3H7NO2Se;168.06 g/mol;;C(C(C(=O)O)N)[SeH];UGA
+V;valine;2-amino-3-methylbutanoic acid;C5H11NO2;117.15 g/mol;6.00;CC(C)C(C(=O)O)N;GUA-GUC-GUG-GUU
+W;tryptophan;2-amino-3-(1H-indol-3-yl)propanoic acid;C11H12N2O2;204.23 g/mol;5.89;C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N;TGG-UGG
+Y;tyrosine;2-amino-3-(4-hydroxyphenyl)propanoic acid;C9H11NO3;181.20 g/mol;5.64;C1=CC(=CC=C1CC(C(=O)O)N)O;TAC-TAT-UAC-UAU
